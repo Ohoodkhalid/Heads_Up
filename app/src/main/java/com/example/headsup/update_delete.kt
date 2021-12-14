@@ -55,13 +55,6 @@ class update_delete : AppCompatActivity() {
 
 
 
-      //  name.setText(intent.extras?.getString("celebrityName")!!
-      // val name3 =
-
-
-       // taboo_1 =(taboo1.setText()).toString()
-       // taboo_2 = (taboo2.setText(intent.extras?.getString("taboo2")!!)).toString()
-       // taboo_3 =(taboo3.setText(intent.extras?.getString("taboo3")!!)).toString()
 
         update.setOnClickListener {
 

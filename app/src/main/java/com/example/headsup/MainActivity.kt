@@ -52,13 +52,6 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this,"Enter a name",Toast.LENGTH_SHORT).show()
             }
 
-      //   var celebrity = celebrityName.text.toString()
-
-         //   intent.putExtra("celebrityN", celebrity)
-
-
-          //  val intent = Intent(this, update_delete::class.java)
-          //  startActivity(intent)
 
 
 
